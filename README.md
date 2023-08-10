@@ -37,7 +37,7 @@ When browsing more pictures, the leaderboard will look like this (also shows the
 
 ## Reference
 * [Youtube Tutorial Part3 - redis applications and actual combat](https://youtu.be/xFNkpyd4Ues)
-* [hehe](google.com)
+* [hehe](https://google.com)
 
 ## License
 
