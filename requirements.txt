@@ -1,0 +1,6 @@
+Django
+django-redis
+djangorestframework
+redis
+gunicorn
+celery
