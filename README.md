@@ -1,9 +1,9 @@
 ## Sample project using Django, Redis and containerized by Docker!
 
-Run:
+To build this project, insall Docker, then run:
 
 ```bash
-docker-compose up
+docker-compose up -d
 ```
 
 Then browse directly http://127.0.0.1:8000/, the page will be displayed as below, you will find that there is a View Count : 1
